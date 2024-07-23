@@ -257,7 +257,7 @@ See [contributing.md](CONTRIBUTING.md)
 
 - [@theapache64](https://github.com/theapache64) [automated this repo](https://github.com/androiddevnotes/awesome-android-kotlin-apps/pull/51) and designed a beautiful layout for awesome-android-kotlin-apps.
 
-## :hatching_chick: Contributors
+## :hatching_chick: Contributors   
 
 Contributors are cool people.
 
